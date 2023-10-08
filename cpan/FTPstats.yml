@@ -209,3 +209,36 @@ history:
   filesize: 26035
   start: 1696807408.29806
   thesiteurl: *19
+- attempts:
+  - method: dleasy
+    start: 1696808890.21822
+    url: &20 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696808893.74881
+  file: authors/id/M/MD/MDOOTSON/Wx-0.9932.tar.gz
+  filesize: 486326
+  start: 1696808890.2179
+  thesiteurl: *20
+- attempts:
+  - method: dleasy
+    start: 1696808909.52051
+    url: &21 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696808911.48225
+  file: authors/id/S/SM/SMUELLER/ExtUtils-XSpp-0.18.tar.gz
+  filesize: 185431
+  start: 1696808909.50887
+  thesiteurl: *21
+- attempts:
+  - method: dleasy
+    start: 1696808911.50062
+    url: &22 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696808913.52122
+  file: authors/id/S/SM/SMUELLER/CHECKSUMS
+  filesize: 135797
+  start: 1696808911.49172
+  thesiteurl: *22

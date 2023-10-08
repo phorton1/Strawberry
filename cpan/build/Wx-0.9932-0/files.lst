@@ -1,0 +1,16 @@
+$VAR1 = {
+          'cpp/helpers.h' => 'blib\\lib\\Wx\\cpp\\helpers.h',
+          'Opt' => 'blib\\arch\\Wx\\build\\Opt.pm',
+          'cpp/wxapi.h' => 'blib\\lib\\Wx\\cpp\\wxapi.h',
+          'cpp/streams.h' => 'blib\\lib\\Wx\\cpp\\streams.h',
+          'cpp/v_cback_def.h' => 'blib\\lib\\Wx\\cpp\\v_cback_def.h',
+          'typemap' => 'blib\\lib\\Wx\\typemap',
+          'cpp/event.h' => 'blib\\lib\\Wx\\cpp\\event.h',
+          'cpp/constants.h' => 'blib\\lib\\Wx\\cpp\\constants.h',
+          'cpp/chkconfig.h' => 'blib\\lib\\Wx\\cpp\\chkconfig.h',
+          'cpp/overload.h' => 'blib\\lib\\Wx\\cpp\\overload.h',
+          'cpp/compat.h' => 'blib\\lib\\Wx\\cpp\\compat.h',
+          'cpp/e_cback.h' => 'blib\\lib\\Wx\\cpp\\e_cback.h',
+          'cpp/v_cback.h' => 'blib\\lib\\Wx\\cpp\\v_cback.h',
+          'cpp/setup.h' => 'blib\\lib\\Wx\\cpp\\setup.h'
+        };
