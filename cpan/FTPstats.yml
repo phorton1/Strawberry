@@ -187,3 +187,25 @@ history:
   filesize: 6070
   start: 1696807337.41586
   thesiteurl: *17
+- attempts:
+  - method: dleasy
+    start: 1696807405.66684
+    url: &18 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807408.29176
+  file: authors/id/M/MD/MDOOTSON/Alien-wxWidgets-0.69.tar.gz
+  filesize: 671819
+  start: 1696807405.66599
+  thesiteurl: *18
+- attempts:
+  - method: dleasy
+    start: 1696807408.30733
+    url: &19 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807409.85783
+  file: authors/id/M/MD/MDOOTSON/CHECKSUMS
+  filesize: 26035
+  start: 1696807408.29806
+  thesiteurl: *19
