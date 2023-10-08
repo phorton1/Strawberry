@@ -1,0 +1,58 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Win32::Process::List
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Win32::Process::List: 1
+  ID: R/RP/RPAGITSCH/Win32-Process-List-0.09.tar.gz
+  RO:
+    CPAN_USERID: RPAGITSCH
+    CPAN_VERSION: '0.09'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\STRAWB~1\cpan\build\Win32-Process-List-0.09-0
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807343
+  localfile: C:\STRAWB~1\cpan\sources\authors\id\R\RP\RPAGITSCH\Win32-Process-List-0.09.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807342
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807342
+  mandatory: 1
+  negative_prefs_cache: 0
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    opt_build_requires: {}
+    opt_requires: {}
+    requires: {}
+  reqtype: c
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807338
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807339
+perl:
+  $^X: C:\StrawBerry\perl\bin\perl.exe
+  mtime_$^X: 1611509040
+  mtime_dll: 0
+  sitearchexp: C:\STRAWB~1\perl\site\lib
+time: 1696807343

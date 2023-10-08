@@ -1,0 +1,27 @@
+do{ my $x = {
+       'build_requires' => {
+                             'Module::Build' => '0.28'
+                           },
+       'conflicts' => {},
+       'recommends' => {},
+       'requires' => {
+                       'Carp' => 0,
+                       'Exporter' => 0,
+                       'Scalar::Util' => 0,
+                       'overload' => 0,
+                       'perl' => '5.006',
+                       'strict' => 0,
+                       'vars' => 0,
+                       'warnings' => 0
+                     },
+       'test_requires' => {
+                            'File::Spec' => 0,
+                            'IO::Handle' => 0,
+                            'IPC::Open3' => 0,
+                            'Test::More' => '0.88',
+                            'base' => 0,
+                            'lib' => 0,
+                            'perl' => '5.006'
+                          }
+     };
+$x; }

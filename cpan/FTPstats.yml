@@ -1,0 +1,189 @@
+---
+history:
+- attempts:
+  - method: dleasy
+    start: 1696807177.84679
+    url: &1 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807180.26448
+  file: authors/01mailrc.txt.gz
+  filesize: 266472
+  start: 1696807177.84617
+  thesiteurl: *1
+- attempts:
+  - method: dleasy
+    start: 1696807180.2719
+    url: &2 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807185.85446
+  file: modules/02packages.details.txt.gz
+  filesize: 2502862
+  start: 1696807180.27116
+  thesiteurl: *2
+- attempts:
+  - method: dleasy
+    start: 1696807185.868
+    url: &3 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807187.2711
+  file: modules/03modlist.data.gz
+  filesize: 248
+  start: 1696807185.86774
+  thesiteurl: *3
+- attempts:
+  - method: dleasy
+    start: 1696807199.01225
+    url: &4 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807200.64763
+  file: authors/id/S/SH/SHLOMIF/Error-0.17029.tar.gz
+  filesize: 33304
+  start: 1696807199.01068
+  thesiteurl: *4
+- attempts:
+  - method: dleasy
+    start: 1696807200.6674
+    url: &5 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807204.33543
+  file: authors/id/S/SH/SHLOMIF/CHECKSUMS
+  filesize: 486312
+  start: 1696807200.65893
+  thesiteurl: *5
+- attempts:
+  - method: dleasy
+    start: 1696807230.61403
+    url: &6 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807232.59857
+  file: authors/id/S/ST/STBEY/Date-Calc-6.4.tar.gz
+  filesize: 173828
+  start: 1696807230.61306
+  thesiteurl: *6
+- attempts:
+  - method: dleasy
+    start: 1696807232.62029
+    url: &7 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807234.23429
+  file: authors/id/S/ST/STBEY/CHECKSUMS
+  filesize: 16582
+  start: 1696807232.61112
+  thesiteurl: *7
+- attempts:
+  - method: dleasy
+    start: 1696807240.1564
+    url: &8 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807242.06907
+  file: authors/id/S/ST/STBEY/Bit-Vector-7.4.tar.gz
+  filesize: 135965
+  start: 1696807240.15611
+  thesiteurl: *8
+- attempts:
+  - method: dleasy
+    start: 1696807274.92913
+    url: &9 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807276.94034
+  file: authors/id/S/ST/STBEY/Date-Calc-XS-6.4.tar.gz
+  filesize: 85282
+  start: 1696807274.92913
+  thesiteurl: *9
+- attempts:
+  - method: dleasy
+    start: 1696807291.28249
+    url: &10 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807293.02491
+  file: authors/id/C/CJ/CJM/Win32-IPC-1.11.tar.gz
+  filesize: 29187
+  start: 1696807291.28142
+  thesiteurl: *10
+- attempts:
+  - method: dleasy
+    start: 1696807293.04618
+    url: &11 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807294.9108
+  file: authors/id/C/CJ/CJM/CHECKSUMS
+  filesize: 123745
+  start: 1696807293.03748
+  thesiteurl: *11
+- attempts:
+  - method: dleasy
+    start: 1696807318.05178
+    url: &12 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807319.54071
+  file: authors/id/M/MB/MBLAZ/Win32-DriveInfo-0.06.tar.gz
+  filesize: 8175
+  start: 1696807318.05066
+  thesiteurl: *12
+- attempts:
+  - method: dleasy
+    start: 1696807319.56153
+    url: &13 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807320.95763
+  file: authors/id/M/MB/MBLAZ/CHECKSUMS
+  filesize: 2942
+  start: 1696807319.55278
+  thesiteurl: *13
+- attempts:
+  - method: dleasy
+    start: 1696807326.22444
+    url: &14 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807327.70269
+  file: authors/id/J/JD/JDB/Win32-Process-0.17.tar.gz
+  filesize: 11475
+  start: 1696807326.22331
+  thesiteurl: *14
+- attempts:
+  - method: dleasy
+    start: 1696807327.72419
+    url: &15 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807329.19191
+  file: authors/id/J/JD/JDB/CHECKSUMS
+  filesize: 18076
+  start: 1696807327.71505
+  thesiteurl: *15
+- attempts:
+  - method: dleasy
+    start: 1696807335.84793
+    url: &16 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807337.40378
+  file: authors/id/R/RP/RPAGITSCH/Win32-Process-List-0.09.tar.gz
+  filesize: 6489
+  start: 1696807335.84656
+  thesiteurl: *16
+- attempts:
+  - method: dleasy
+    start: 1696807337.42486
+    url: &17 !!perl/hash:CPAN::URL
+      FROM: USER
+      TEXT: http://cpan.strawberryperl.com/
+  end: 1696807338.86211
+  file: authors/id/R/RP/RPAGITSCH/CHECKSUMS
+  filesize: 6070
+  start: 1696807337.41586
+  thesiteurl: *17

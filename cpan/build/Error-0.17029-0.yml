@@ -1,0 +1,77 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Error
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Error: 1
+    Error::Simple: 1
+    Error::WarnDie: 1
+    Error::subs: 1
+  ID: S/SH/SHLOMIF/Error-0.17029.tar.gz
+  RO:
+    CPAN_USERID: SHLOMIF
+    CPAN_VERSION: '0.17029'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\STRAWB~1\cpan\build\Error-0.17029-0
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807223
+  localfile: C:\STRAWB~1\cpan\sources\authors\id\S\SH\SHLOMIF\Error-0.17029.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807221
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807223
+  mandatory: 1
+  modulebuild: 1
+  negative_prefs_cache: 0
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      File::Spec: '0'
+      IO::Handle: '0'
+      IPC::Open3: '0'
+      Module::Build: '0.28'
+      Test::More: '0.88'
+      base: '0'
+      lib: '0'
+      perl: '5.006'
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Carp: '0'
+      Exporter: '0'
+      Scalar::Util: '0'
+      overload: '0'
+      perl: '5.006'
+      strict: '0'
+      vars: '0'
+      warnings: '0'
+  reqtype: c
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807204
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807207
+perl:
+  $^X: C:\StrawBerry\perl\bin\perl.exe
+  mtime_$^X: 1611509040
+  mtime_dll: 0
+  sitearchexp: C:\STRAWB~1\perl\site\lib
+time: 1696807223

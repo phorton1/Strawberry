@@ -1,0 +1,68 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Date::Calc
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Date::Calc: 1
+    Date::Calc::Object: 1
+    Date::Calc::PP: 1
+    Date::Calendar: 1
+    Date::Calendar::Profiles: 1
+    Date::Calendar::Year: 1
+  ID: S/ST/STBEY/Date-Calc-6.4.tar.gz
+  RO:
+    CPAN_USERID: STBEY
+    CPAN_VERSION: '6.4'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\STRAWB~1\cpan\build\Date-Calc-6.4-0
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807274
+  localfile: C:\STRAWB~1\cpan\sources\authors\id\S\ST\STBEY\Date-Calc-6.4.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807268
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807274
+  mandatory: 1
+  negative_prefs_cache: 0
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    opt_build_requires: {}
+    opt_requires:
+      Date::Calc::XS: '6.4'
+    requires:
+      Bit::Vector: '7.4'
+      Carp::Clan: '6.04'
+  reqtype: c
+  sponsored_mods:
+    Bit::Vector: 1
+    Date::Calc::XS: 2
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807234
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807236
+perl:
+  $^X: C:\StrawBerry\perl\bin\perl.exe
+  mtime_$^X: 1611509040
+  mtime_dll: 0
+  sitearchexp: C:\STRAWB~1\perl\site\lib
+time: 1696807274

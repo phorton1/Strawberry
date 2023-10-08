@@ -1,0 +1,22 @@
+---
+abstract: 'Create and manipulate processes'
+author:
+  - 'Jan Dubois <jan@jandubois.com>'
+build_requires:
+  ExtUtils::MakeMaker: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 0
+generated_by: 'Jan Dubois, CPAN::Meta::Converter version 2.150010'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Win32-Process
+requires:
+  perl: '5.006'
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: https://github.com/jandubois/win32-process
+version: '0.17'
+x_serialization_backend: 'CPAN::Meta::YAML version 0.018'

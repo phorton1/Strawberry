@@ -1,0 +1,59 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Win32::Process
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Win32::Process: 1
+  ID: J/JD/JDB/Win32-Process-0.17.tar.gz
+  RO:
+    CPAN_USERID: JDB
+    CPAN_VERSION: '0.17'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\STRAWB~1\cpan\build\Win32-Process-0.17-0
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807334
+  localfile: C:\STRAWB~1\cpan\sources\authors\id\J\JD\JDB\Win32-Process-0.17.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807332
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807333
+  mandatory: 1
+  negative_prefs_cache: 0
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      perl: '5.006'
+  reqtype: c
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807329
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1696807329
+perl:
+  $^X: C:\StrawBerry\perl\bin\perl.exe
+  mtime_$^X: 1611509040
+  mtime_dll: 0
+  sitearchexp: C:\STRAWB~1\perl\site\lib
+time: 1696807334

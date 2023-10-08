@@ -1,0 +1,25 @@
+do{ my $x = {
+       'blib' => 1,
+       'blib\\arch\\auto\\Win32\\ChangeNotify\\ChangeNotify.bs' => 1,
+       'blib\\arch\\auto\\Win32\\ChangeNotify\\ChangeNotify.xs.dll' => 1,
+       'blib\\arch\\auto\\Win32\\Event\\Event.bs' => 1,
+       'blib\\arch\\auto\\Win32\\Event\\Event.xs.dll' => 1,
+       'blib\\arch\\auto\\Win32\\IPC\\IPC.bs' => 1,
+       'blib\\arch\\auto\\Win32\\IPC\\IPC.xs.dll' => 1,
+       'blib\\arch\\auto\\Win32\\Mutex\\Mutex.bs' => 1,
+       'blib\\arch\\auto\\Win32\\Mutex\\Mutex.xs.dll' => 1,
+       'blib\\arch\\auto\\Win32\\Semaphore\\Semaphore.bs' => 1,
+       'blib\\arch\\auto\\Win32\\Semaphore\\Semaphore.xs.dll' => 1,
+       'lib\\Win32\\ChangeNotify.c' => 1,
+       'lib\\Win32\\ChangeNotify.o' => 1,
+       'lib\\Win32\\Event.c' => 1,
+       'lib\\Win32\\Event.o' => 1,
+       'lib\\Win32\\IPC.c' => 1,
+       'lib\\Win32\\IPC.o' => 1,
+       'lib\\Win32\\Mutex.c' => 1,
+       'lib\\Win32\\Mutex.o' => 1,
+       'lib\\Win32\\Semaphore.c' => 1,
+       'lib\\Win32\\Semaphore.o' => 1,
+       'vc*.pdb' => 1
+     };
+$x; }

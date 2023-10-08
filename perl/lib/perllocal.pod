@@ -9986,3 +9986,135 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Sun Oct  8 23:21:03 2023: C<Module> L<Bit::Vector|Bit::Vector>
+
+=over 4
+
+=item *
+
+C<installed into: C:\STRAWB~1\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Oct  8 23:21:14 2023: C<Module> L<Date::Calc|Date::Calc>
+
+=over 4
+
+=item *
+
+C<installed into: C:\STRAWB~1\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Oct  8 23:21:29 2023: C<Module> L<Date::Calc::XS|Date::Calc::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\STRAWB~1\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Oct  8 23:22:05 2023: C<Module> L<Win32::DriveInfo|Win32::DriveInfo>
+
+=over 4
+
+=item *
+
+C<installed into: C:\STRAWB~1\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Oct  8 23:22:14 2023: C<Module> L<Win32::Process|Win32::Process>
+
+=over 4
+
+=item *
+
+C<installed into: C:\STRAWB~1\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Oct  8 23:22:23 2023: C<Module> L<Win32::Process::List|Win32::Process::List>
+
+=over 4
+
+=item *
+
+C<installed into: C:\STRAWB~1\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

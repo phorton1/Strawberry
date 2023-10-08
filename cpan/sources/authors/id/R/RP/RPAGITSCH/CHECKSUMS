@@ -1,0 +1,144 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Mon Nov 22 00:22:05 2021 GMT by CPAN::Checksums (v2.13)
+$cksum = {
+  'Mail-Convert-Mbox-ToEml-0.04.meta' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => 'bca009f5dc933c8563fce9708b7dcfeb',
+    'mtime' => '2007-10-15',
+    'sha256' => '8621b72002e8b50b94a268bf9a87dfb712465cc61a088a0a543dd96cf6bcd5e1',
+    'size' => 318
+  },
+  'Mail-Convert-Mbox-ToEml-0.04.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '70bbb52893c687b5d8ee45a66a48c9fb',
+    'md5-ungz' => '490b2c54e035544cfeb96c7c0ff8db0d',
+    'mtime' => '2007-10-15',
+    'sha256' => 'ac7b0b47eb203f91c192ab38c5aa40c40737295081a301b1e63a7d924fedc1f2',
+    'sha256-ungz' => '65aadc7025320d74a1a4e1b2555f2eafc97ddedc4d337d55566e5c9f3a448244',
+    'size' => 4765
+  },
+  'Win32-File-Summary-0.04.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '9d42fdcfd1ca5d6fa845421bca8cf229',
+    'md5-ungz' => 'dd89bcc9e36e374c646628f52de19441',
+    'mtime' => '2005-04-30',
+    'sha256' => 'df6e9ad33744e30e35e9c89b7b1f08bc5909c85758f41e0e3750e95267c4029b',
+    'sha256-ungz' => '4839fb69cb0a9fbe074f738728233bb63bbfda3226df6e9d74e0cd04f41b3d36',
+    'size' => 9525
+  },
+  'Win32-File-Summary-1.10.1.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '83999e989bea585c4c79793c707a12da',
+    'md5-ungz' => '943c1e4dc357b88145256f61c56b828a',
+    'mtime' => '2006-06-11',
+    'sha256' => '6c8091454b1b496a8516c377030ec3b7bc09de0f658dd4c4723c86e7a3c191ff',
+    'sha256-ungz' => '18ae9ae9ab237b13b67d59e76e2ea5be80e657a9af3f40fe09d42ef771e71a04',
+    'size' => 452118
+  },
+  'Win32-File-Summary-1.10.meta' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '4c1f0dd1a5256df4706943cd8a0adfb3',
+    'mtime' => '2005-05-18',
+    'sha256' => 'aead07b9c36fbf979dc4f9f27d6715fa47213130e68552474723149413b04920',
+    'size' => 312
+  },
+  'Win32-File-Summary-1.10.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => 'b2f4d68ade75bf4c2f45422ba169bc89',
+    'md5-ungz' => 'bbf7d72fc62b7f275609f492d2a61d60',
+    'mtime' => '2005-08-24',
+    'sha256' => '7609ee555123c1465852cc70f102897ab6ed0223d80acfdccf5f6833f350bb5a',
+    'sha256-ungz' => '8af380d3c7dff8c8f7c81c6500e55a2fa93f5d019505167afcd091b316ac0f35',
+    'size' => 449393
+  },
+  'Win32-Fonts-Info-0.01.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '3053105dbc2d520e0cabdb681ee65f8a',
+    'md5-ungz' => 'cd31fcbb0b6b4607558b2a8c5621db45',
+    'mtime' => '2006-06-25',
+    'sha256' => '5d0ad48511a1c05627e6695b9869131599d129edad3518b56c8393a3a907fd53',
+    'sha256-ungz' => '3d0f954286c54a986bbd3e7d68fce36b78483ad200f8bec253d8cf94dc82ebd9',
+    'size' => 14723
+  },
+  'Win32-Net-Session-0.02.meta' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => 'ab3efafbb9af9c7e9cc98742682679ad',
+    'mtime' => '2005-10-07',
+    'sha256' => '669db51d02f085282f78da168d65b145fc0e370d6054822bacd1f1d4da341a03',
+    'size' => 304
+  },
+  'Win32-Net-Session-0.02.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '466d0067a58f94acfe17a9d5f73867aa',
+    'md5-ungz' => 'f78be1c2b92d34d820169f3fc1abb1df',
+    'mtime' => '2005-10-07',
+    'sha256' => '38039399756eb74f6ab52a76550ef93d5e89baea6760086c63d948824eb223c9',
+    'sha256-ungz' => '8d374482c275b4f652afac61350c883de67cf7bb25340b580e6ce34967177416',
+    'size' => 6602
+  },
+  'Win32-Process-List-0.09.meta' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '41c4c7c71b9c2751bad194c7dafa4076',
+    'mtime' => '2007-05-27',
+    'sha256' => '2750febea65fd82424a2673cf4141a58284edb2584c7cdfd0bd4410f78b7f604',
+    'size' => 312
+  },
+  'Win32-Process-List-0.09.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '55af091951c71326366cd0b1d6e17f59',
+    'md5-ungz' => 'e13571080c16274d31f778fdd1d23432',
+    'mtime' => '2007-05-27',
+    'sha256' => '4d9e246ff4f4558f8982b19d4d4ecd5605923ecdd0553fe9aae4ca7766328bb9',
+    'sha256-ungz' => 'a6a5fc33508354b77097a7388a5cca9fe26c8d3a8b1c72132e15d5d821909435',
+    'size' => 6489
+  },
+  'Win32-Process-Perf-1.05.meta' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '57da0e1221ffd074e2853730d455f69a',
+    'mtime' => '2006-11-11',
+    'sha256' => '26f955b4ac7e1ad7b5afa62c12640abfacd29a6c518acfa0f75534bd0f416551',
+    'size' => 411
+  },
+  'Win32-Process-Perf-1.05.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '9c45eeaf9334d4fd81da0d94331c75f6',
+    'md5-ungz' => '8f40b85fb17a09c12f616c9152ff94c1',
+    'mtime' => '2006-11-11',
+    'sha256' => 'a33211bf1bd9c1fa160a03d8bbb2c913f246073abeae67ba05a28ae97d77783e',
+    'sha256-ungz' => '6a0cb3634c01f3dffbb404970173dd9d6a6b915e3fac339134b827bc6a339840',
+    'size' => 13494
+  },
+  'Win32-Process-User-0.01.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '4b5dfccc4360421536ee83088ddc2c86',
+    'md5-ungz' => '2b95e03b345493e863a92235645d0414',
+    'mtime' => '2006-08-19',
+    'sha256' => '0fb1415ac6ec87b6964050fa57efa5fe2702e3f3393bce29282934a884048776',
+    'sha256-ungz' => '11cea2cea63e64071168e208c924d77d78df0f705be32dbc3010e92e091fa8fd',
+    'size' => 5288
+  },
+  'Win32-Process-User-0.02.tar.gz' => {
+    'cpan_path' => 'R/RP/RPAGITSCH',
+    'md5' => '6280cd1bb8c42eb284c983482ebb1c78',
+    'md5-ungz' => '936c0ac329feedb5a121855f644c65c7',
+    'mtime' => '2006-08-19',
+    'sha256' => '555e2c54cbc8d6a35dd07ddc151a25497ada2f687f5d46d48c7fbd7749d52b2a',
+    'sha256-ungz' => 'f3a24825e5550d7bba346329e0b324761d415a59683e29f67c2434fff4aa6943',
+    'size' => 5063
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iQEcBAEBAgAGBQJhmuKtAAoJELahc5BjdgzKVq8IAICG0Nq6gRaUrz+SoXCoA5Qw
+vwT+8RCAk5jGc9y1Y67wARpYpZZAa7WgpOKNxI0WejUlgRpbCroT4Cvg86rR7Bgl
+XXBmIQILJXk8XGNcf3wRxjSVC3epQYItFVOHa73GK6RyGo4CJKeHk5mnKGijBYgV
+Jj0SekIBScd30fY5hgND+FdDCMzRLBNmEg94BYLbzcRxk1EIttC1ZcOYFsSeGYSJ
+KXi7mwonwOByn4Qyw8bG4C0LstdBR/Lc8gfqYBcOLUdzrtQz6KD3WKMA6q+l74m3
+Iopiuzj0x7GUqYrk40PhycaNavmc2EZ5RnhrONJZWs89rj5/J8CLrOZcvIi97uw=
+=TUst
+-----END PGP SIGNATURE-----

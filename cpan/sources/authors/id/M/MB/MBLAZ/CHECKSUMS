@@ -1,0 +1,71 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Sun Nov 21 22:18:46 2021 GMT by CPAN::Checksums (v2.13)
+$cksum = {
+  'Crypt-CBCeasy-0.22.tar.gz' => {
+    'cpan_path' => 'M/MB/MBLAZ',
+    'md5' => 'aeac8b4beff573d358193e58760f1c0b',
+    'md5-ungz' => '037b84cb3ec08d7395a9d2041e1a4e6c',
+    'mtime' => '2001-02-19',
+    'sha256' => 'b5db2fbb1685967b00f527f5dc6e6c5a15f98f2882412adb8a5d9d04c83b48d1',
+    'sha256-ungz' => 'f97f20c5c959c0742e7823eb35e07b51f51105eac3e338b3a14e04d3f2651ab6',
+    'size' => 10569
+  },
+  'Crypt-CBCeasy-0.24.tar.gz' => {
+    'cpan_path' => 'M/MB/MBLAZ',
+    'md5' => '728fb6478c2ad7b13bfcb104ba073fca',
+    'md5-ungz' => '409d7218a0dbf841c5b9fcd0133b56ef',
+    'mtime' => '2001-04-07',
+    'sha256' => '285d65b90519f4e761f8a35f6bb05ba96a81a13694f26205314b350147442d4a',
+    'sha256-ungz' => '21563714f4dc2a07d3b8489ef0086b643f9371b2ba43c5266f7066c550837171',
+    'size' => 11022
+  },
+  'Win32-DriveInfo-0.04.tar.gz' => {
+    'cpan_path' => 'M/MB/MBLAZ',
+    'md5' => '11bc9410937d5355b010f7068dbcd2a2',
+    'md5-ungz' => 'b36d7ee3bdf20d7f63ac8a4c3592f5e5',
+    'mtime' => '2000-03-13',
+    'sha256' => 'fa3d32adc1da74dcc66504aad5b9f8b84ab4556a5eeae2a0b49101e2e9d94ce5',
+    'sha256-ungz' => 'c567781428398e4caf3d1eb6da59bab2553f8184111916e6fd22ef725915705f',
+    'size' => 7554
+  },
+  'Win32-DriveInfo-0.06.tar.gz' => {
+    'cpan_path' => 'M/MB/MBLAZ',
+    'md5' => '9970e55db9b84cd863ccdb750f71618d',
+    'md5-ungz' => '7c60ca266ded37ffff16b903051b8cf5',
+    'mtime' => '2001-02-19',
+    'sha256' => '89a9553975c5f05941f2765135f7c143bd8d1d6e5f87ff415b2583f02264b1d8',
+    'sha256-ungz' => '62cc5a7ef299da29bc00813b3a1a54e2950e5fd4c918696fbe3040bedafdf310',
+    'size' => 8175
+  },
+  'Win32-RASE-1.01.tar.gz' => {
+    'cpan_path' => 'M/MB/MBLAZ',
+    'md5' => 'f5dfa0ef9b415aeb011ac52972a6217e',
+    'md5-ungz' => '74b1ecbf2379c9310c466fcb81ed71fe',
+    'mtime' => '2000-03-09',
+    'sha256' => 'd7002126aeb086243ccc1e6c73f6cd6d9dd2684d34d3dcae00817627d442790e',
+    'sha256-ungz' => 'c98d20c29344c4a0f85fbb514fa8459e98515d4264b9097927e81c86fcbc2a24',
+    'size' => 37164
+  },
+  'Win32-perl-shellext_0.02.zip' => {
+    'cpan_path' => 'M/MB/MBLAZ',
+    'md5' => 'a05cd37894385c1213638ab201164825',
+    'mtime' => '2001-02-19',
+    'sha256' => '900df21f98c115a3e1ac79d1bf55c540fa370d42e0dbb22de412b3796a9522e2',
+    'size' => 6841
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iQEcBAEBAgAGBQJhmsXGAAoJELahc5BjdgzKidsH/1JSB9Kcqq4I4fUFQbL1Vuxw
+r5C2FXUDv42OJOv5RmQNBIXTIfOLkpkac44bPH2rtM+23nsO3ci1BFuGRZFpUdHI
+LbNMQgHrbgD9LX1dFZmqnWSWV2QPwlg1tP+PUjnw+rxyUXBcedUVGYy9ZL6J/mp/
+lni1rgApx1IEl0680O5LMRnLpPN3aVh5VyLIqEClKR60ADr1yQtgZWNXE/hmfK8b
+jdCAGvIdBivVWcE79xze1K/3o9hpqZekRlBkilw0CT+ytzSLdDtgpoz6rYD6+isF
+rRNgtZnHm7jxANQ/Iibcw3FOrPew3HVRp19PfcRCqvK0aWBCDpClaTgC/AsF2M8=
+=IYWo
+-----END PGP SIGNATURE-----
