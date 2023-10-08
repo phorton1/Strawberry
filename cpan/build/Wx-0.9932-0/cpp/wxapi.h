@@ -60,11 +60,11 @@ WXPL_EXTERN_C_START
 #ifdef dNOOP
 #undef dNOOP
 #endif
-#ifdef __cplusplus 
-#define dNOOP (void)0 
-#else 
-#define dNOOP extern int Perl___notused(void) 
-#endif 
+#ifdef __cplusplus
+#define dNOOP (void)0
+#else
+#define dNOOP extern int Perl___notused(void)
+#endif
 #endif
 
 #include <XSUB.h>
@@ -133,6 +133,7 @@ inline CV* wxPli_newXS(pTHX_ const char* name, XSUBADDR_t addr,
 #undef getc
 #undef getenv
 #undef malloc
+#undef calloc   // prh - added for Wx build
 #undef open
 #undef read
 #undef realloc
