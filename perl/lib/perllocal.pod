@@ -10118,3 +10118,25 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Sun Oct  8 23:56:36 2023: C<Module> L<Wx|Wx>
+
+=over 4
+
+=item *
+
+C<installed into: C:\STRAWB~1\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9932>
+
+=item *
+
+C<EXE_FILES: script/wxperl_overload>
+
+=back
+

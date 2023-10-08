@@ -21,7 +21,7 @@ Strawberry Perl Install
 	- cpan Win32::Process
 	- cpan Win32::Process::List
 	- cpan Alien::wxWidgets - takes a 30+ minutes, compiles entire library
-	- cpan Wx fails
+	- cpan Wx - will fail after about 1 minute
 
 4. Building Wx
 
@@ -31,10 +31,9 @@ Strawberry Perl Install
 
 	Modify C:\StrawBerry\cpan\build\Wx-0.9932-0\cpp\wxapi.h and add the following:
 
-		// prh - added for Wx build
-		#undef calloc
+		#undef calloc	// prh - added for Wx build
 
-	around line 133. Then
+	around line 136. Then
 
 		> cd C:\StrawBerry\cpan\build\Wx-0.9932-0 and
 		> gmake test install
@@ -53,13 +52,11 @@ Strawberry Perl Install
 
 	5c. /Strawberry/perl/vendor/lib/Win32Api/ComPort.pm
 
-		increase buffer size aroudn line 54
+		increase buffer size around line 54
 
 		# prh - increase buffer size
 		#our $RBUF_Size = 4096;
 		our $RBUF_Size = 15384;
-
-
 
 
 6. /base/Pub/WX/examples/minimum/minimum.pm runs ...
