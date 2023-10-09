@@ -51,7 +51,9 @@ our $_ResetEvent = Win32::API->new("kernel32", "ResetEvent", [N], I);
 use strict;
 
 our $VERSION = '0.21';
-our $RBUF_Size = 4096;
+# prh - increase buffer size
+#our $RBUF_Size = 4096;
+our $RBUF_Size = 15384;
 
 require Exporter;
 
