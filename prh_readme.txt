@@ -69,11 +69,24 @@ Strawberry Perl Install
 
 7. "perl buddy.pm 3 -arduino -file_server -crlf"
 
-8. fileClient from buddy
+   works, as does ctrl-E to bring up fileClient
 
-	"SerialSession(0) connect timeout" ...
+8. The ONLY Cava::Packager v2.0.80.693 will NOT WORK with
+   strawberry-perl-5.32.1.1-32bit.msi, which reports: perl -v
 
-	I think the problem is the baud rate 115200 or other changes
-	I made to Win32 on my Perl
+   This is perl 5, version 32, subversion 1 (v5.32.1) built for MSWin32-x86-multi-thread-64int
 
-	/perl/lib/Win32 stuff is in /perl/vendor/lib/Win32 on Strawberry
+9. Wrapping up
+
+	Someday I might write a Packager.  It would be hard.
+	Until then I am keeping /Strawberry but removing the
+	PATHS from ENV:
+
+	C:\StrawBerry\c\bin;
+	C:\StrawBerry\perl\site\bin;
+	C:\StrawBerry\perl\bin
+
+
+
+
+
