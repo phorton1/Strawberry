@@ -600,7 +600,9 @@ sub get_Win32_IPC_HANDLE { # So Win32::IPC can wait on a console handle
 sub DESTROY {
 #============
     my($self) = @_;
-    _CloseHandle($self->{'handle'});
+	# prh - magic solution to my thread/fork problems
+	# comment out the following line
+	# _CloseHandle($self->{'handle'});
 }
 
 #######################################################################
