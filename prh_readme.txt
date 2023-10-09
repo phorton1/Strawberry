@@ -38,6 +38,8 @@ Strawberry Perl Install
 		> cd C:\StrawBerry\cpan\build\Wx-0.9932-0 and
 		> gmake test install
 
+	takes around 10 minutes
+
 5. Manual Changes
 
 	5a. Manually add site/lib/Cava::Packager
@@ -55,7 +57,7 @@ Strawberry Perl Install
 		increase buffer size around line 54
 
 		# prh - increase buffer size
-		#our $RBUF_Size = 4096;
+		# our $RBUF_Size = 4096;
 		our $RBUF_Size = 15384;
 
 
